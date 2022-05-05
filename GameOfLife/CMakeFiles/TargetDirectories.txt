@@ -1,0 +1,3 @@
+/home/robert/ProgramowanieObjektowe/Projekt2/GameOfLife/CMakeFiles/rebuild_cache.dir
+/home/robert/ProgramowanieObjektowe/Projekt2/GameOfLife/CMakeFiles/edit_cache.dir
+/home/robert/ProgramowanieObjektowe/Projekt2/GameOfLife/CMakeFiles/life.dir

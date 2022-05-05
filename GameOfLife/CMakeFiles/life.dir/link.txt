@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/life.dir/main.cpp.o CMakeFiles/life.dir/src/GameBoard.cpp.o CMakeFiles/life.dir/src/GameBoardWalc.cpp.o CMakeFiles/life.dir/src/GameBoardDonut.cpp.o  -o life 
